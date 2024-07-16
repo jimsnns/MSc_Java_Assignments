@@ -1,3 +1,5 @@
+package Assignment_1;
+
 /*
  * author: Dimitris Sinanis 
  * Title: THEMA1
