@@ -1,12 +1,13 @@
 # MSc Java Assignments Repository ☕
 
-Welcome to the repository containing my MSc Java assignments. This repository includes three distinct projects that demonstrate some simple applications in Java programming. Each project is designed to tackle a unique problem and showcase different aspects of Java programming.
+Welcome to the repository containing my MSc Java assignments. This repository includes four distinct projects that demonstrate some simple applications in Java programming. Each project is designed to tackle a unique problem and showcase different aspects of Java programming.
 
 ## Table of Contents
 
 - [Assignment 1: Holiday Destination Application](#assignment-1-holiday-destination-application)
 - [Assignment 2: AMKA Prediction Application](#assignment-2-amka-prediction-application)
 - [Assignment 3: Screen Coordinates Application](#assignment-3-screen-coordinates-application)
+- [Assignment 4: Sudoku Solver Application](#assignment-4-sudoku-solver-application)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -36,6 +37,16 @@ This application displays the coordinates of the window screen in real-time. It 
 
 - Real-time display of the window's screen coordinates.
 - Dynamic updating of coordinates as the window moves.
+
+## Assignment 4: Sudoku Solver Application
+
+This application solves Sudoku puzzles using a backtracking algorithm. It provides a user interface for inputting the puzzle and displays the solution if one exists.
+
+### Features
+
+- Input grid for entering the Sudoku puzzle.
+- Implementation of a backtracking algorithm to find solutions.
+- Display of the solved puzzle or an indication if no solution exists.
 
 ## Getting Started
 
@@ -84,7 +95,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Dimitris Sinanis - 📫 https://www.linkedin.com/in/dimitris-sinanis-5a58aa153/
+Dimitris Sinanis - 📫 [LinkedIn](https://www.linkedin.com/in/dimitris-sinanis-5a58aa153/)
 
 Project Link: 
 
