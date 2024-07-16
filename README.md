@@ -147,8 +147,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Dimitris Sinanis - 📫 [LinkedIn](https://www.linkedin.com/in/dimitris-sinanis-5a58aa153/)
 
-Project Link: 
-
 ---
 
 Thank you for checking out my MSc Java assignments repository. I hope you find the projects useful and informative. Happy coding!
