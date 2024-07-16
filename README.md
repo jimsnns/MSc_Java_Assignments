@@ -7,7 +7,7 @@ Welcome to the repository containing my MSc Java assignments. This repository in
 - [Assignment 1: Holiday Destination Application](#assignment-1-holiday-destination-application)
 - [Assignment 2: AMKA Prediction Application](#assignment-2-amka-prediction-application)
 - [Assignment 3: Screen Coordinates Application](#assignment-3-screen-coordinates-application)
-- [Assignment 4: Sudoku Solver Application](#assignment-4-sudoku-solver-application)
+- [Assignment 8: Sudoku Solver Application](#assignment-4-sudoku-solver-application)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
