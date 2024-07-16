@@ -1,4 +1,4 @@
-package THEMA3;
+package Assignment_3;
 /*
  * author: Dimitris Sinanis
  * Title: THEMA3
