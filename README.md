@@ -1,6 +1,6 @@
 # MSc Java Assignments Repository ☕
 
-Welcome to the repository containing my MSc Java assignments. This repository includes three distinct projects that demonstrate my skills in Java programming. Each project is designed to tackle a unique problem and showcase different aspects of Java programming.
+Welcome to the repository containing my MSc Java assignments. This repository includes three distinct projects that demonstrate some simple applications in Java programming. Each project is designed to tackle a unique problem and showcase different aspects of Java programming.
 
 ## Table of Contents
 
@@ -62,8 +62,8 @@ To get a local copy up and running, follow these simple steps.
 For example, to run the Holiday Destination Application:
 ```sh
 cd Assignment1
-javac HolidayDestinationApp.java
-java HolidayDestinationApp
+javac Holiday.java
+java Holiday
 ```
 
 ## Contributing
