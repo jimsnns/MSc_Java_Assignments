@@ -1,5 +1,10 @@
 package Assignment_8;
 
+/*
+ * author: Dimitris Sinanis
+ * Title: THEMA8
+ */
+
 public class Solver {
     public static void main(String[] args) {
         int[][] initial = {

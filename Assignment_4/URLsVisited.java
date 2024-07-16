@@ -1,5 +1,5 @@
 /*
- * author: Dimitris Sinanis, RN 150615 
+ * author: Dimitris Sinanis
  * Title: THEMA4
  */
 package Assignment_4;

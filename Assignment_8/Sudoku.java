@@ -1,5 +1,10 @@
 package Assignment_8;
 
+/*
+ * author: Dimitris Sinanis
+ * Title: THEMA8
+ */
+
 import java.util.*;
 
 public class Sudoku {

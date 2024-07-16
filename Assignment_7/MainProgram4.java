@@ -1,6 +1,6 @@
 /*
- * author: Dimitris Sinanis, RN 150615 
- * Title: THEMA6
+ * author: Dimitris Sinanis
+ * Title: THEMA7
  */
 package Assignment_7;
 
