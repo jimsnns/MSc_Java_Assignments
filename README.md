@@ -1,6 +1,6 @@
 # MSc Java Assignments Repository
 
-Welcome to the repository containing my MSc Java assignments. This repository includes three distinct projects that demonstrate my skills in Java programming and GUI application development. Each project is designed to tackle a unique problem and showcase different aspects of Java programming.
+Welcome to the repository containing my MSc Java assignments. This repository includes three distinct projects that demonstrate my skills in Java programming. Each project is designed to tackle a unique problem and showcase different aspects of Java programming.
 
 ## Table of Contents
 
@@ -17,12 +17,7 @@ Welcome to the repository containing my MSc Java assignments. This repository in
 
 ## Assignment 1: Holiday Destination Application
 
-This application allows users to choose their favorite holiday destination from a predefined list. Based on the user's selection, the application will display their favorite destination. This project focuses on user interaction and GUI design using Java Swing.
-
-### Features
-
-- User-friendly interface to select holiday destinations.
-- Display of the user's favorite destination based on their selection.
+This application allows users to choose their favorite holiday destination from a predefined list. Based on the user's selection, the application will display their favorite destination. This project focuses on user interaction and simple commands by input from the user.
 
 ## Assignment 2: AMKA Prediction Application
 
@@ -31,7 +26,7 @@ The AMKA (Greek Social Security Number) application takes an AMKA number and the
 ### Features
 
 - Input fields for AMKA number and current year.
-- Prediction of the individual's sex based on the provided AMKA number.
+- Random prediction of the individual's sex based on the provided AMKA number and use of modulo.
 
 ## Assignment 3: Screen Coordinates Application
 
@@ -55,7 +50,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/msc-java-assignments.git
+   git clone https://github.com/jimsnns/msc-java-assignments.git
    ```
 2. Open the project in your preferred IDE.
 
@@ -89,9 +84,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Dimitris Sinanis - 📫 https://www.linkedin.com/in/dimitris-sinanis-5a58aa153/
 
-Project Link: [https://github.com/your-username/msc-java-assignments](https://github.com/your-username/msc-java-assignments)
+Project Link: 
 
 ---
 
