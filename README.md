@@ -26,7 +26,7 @@ This application allows users to choose their favorite holiday destination from 
 
 ## Assignment 2: AMKA Prediction Application
 
-The AMKA (Greek Social Security Number) application takes an AMKA number and the current year as inputs to predict the sex of the individual. This project demonstrates the use of string manipulation and basic algorithms in Java.
+The AMKA (Greek Social Security Number) application takes an AMKA number and the current year as inputs to randomly predict the sex of the individual. This project demonstrates the use of string manipulation and basic algorithms in Java.
 
 ### Features
 
@@ -40,7 +40,6 @@ This application displays the coordinates of the window screen in real-time. It 
 ### Features
 
 - Real-time display of the window's screen coordinates.
-- Dynamic updating of coordinates as the window moves.
 
 ## Assignment 4: URLs Visited Tracker Application
 
@@ -49,7 +48,7 @@ This application tracks and displays the URLs visited by a user. It logs each vi
 ### Features
 
 - Tracks and logs each URL visited by the user.
-- Displays a list of all visited URLs in a user-friendly interface.
+- Displays a list of all visited URLs.
 - Demonstrates the use of file handling for data persistence.
 - Implements GUI components for better user interaction.
 
@@ -86,7 +85,7 @@ This application extends the Supermarket Sales Analysis to write the sales data 
 - Sets supermarket and city names.
 - Writes total income per branch to a text file named after the city.
 - Utilizes method overriding to customize file output.
-- Demonstrates advanced file handling in Java.
+- Demonstrates file handling in Java.
 
 ## Assignment 8: Sudoku Solver Application
 
