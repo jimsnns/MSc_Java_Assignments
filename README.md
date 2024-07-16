@@ -1,4 +1,4 @@
-# MSc Java Assignments Repository
+# MSc Java Assignments Repository ☕
 
 Welcome to the repository containing my MSc Java assignments. This repository includes three distinct projects that demonstrate my skills in Java programming. Each project is designed to tackle a unique problem and showcase different aspects of Java programming.
 
