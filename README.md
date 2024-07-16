@@ -38,7 +38,7 @@ This application displays the coordinates of the window screen in real-time. It 
 - Real-time display of the window's screen coordinates.
 - Dynamic updating of coordinates as the window moves.
 
-## Assignment 4: Sudoku Solver Application
+## Assignment 8: Sudoku Solver Application
 
 This application solves Sudoku puzzles using a backtracking algorithm. It provides a user interface for inputting the puzzle and displays the solution if one exists.
 
